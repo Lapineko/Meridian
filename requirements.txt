@@ -1,0 +1,2 @@
+# This is the protocol version used by the original working implementation.
+pymobiledevice3==11.12.5
